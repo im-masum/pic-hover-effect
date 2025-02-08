@@ -30,6 +30,8 @@ body {
 }
 .pic:hover{
     flex: 100%;
+    transform: scale(0.9);
+    
 }
 
 .pic-1, .pic-2, .pic-3, .pic-4, .pic-5, .pic-6 {
